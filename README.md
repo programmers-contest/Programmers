@@ -11,7 +11,7 @@
 
 > hongbeom
 
-* [Level1](https://github.com/hongbeomi/ProgrammersContest/tree/master/hongbeom/level1)
+* [Level1](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/level1)
 
 > daewon
 
