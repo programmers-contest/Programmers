@@ -1,10 +1,8 @@
-package level1.예산;
-
+package summer_coding_2018.예산;
 import java.util.ArrayList;
 import java.util.Collections;
 
 public class Solution {
-
     public int solution(int[] d, int budget) {
         int answer = 0;
         ArrayList<Integer> arrayList = new ArrayList<>();
@@ -15,15 +13,13 @@ public class Solution {
         }
         Collections.sort(arrayList);
 
-        for (int i = 0; i < arrayList.size(); i++) {
-            sum += arrayList.get(i);
+        for (Integer integer : arrayList) {
+            sum += integer;
             if (sum > budget) {
                 break;
             }
             answer++;
         }
-
         return answer;
     }
-
 }
