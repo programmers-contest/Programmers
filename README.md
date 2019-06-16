@@ -12,9 +12,12 @@
 > hongbeom
 
 * [Level1](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/level1)
+* [탐욕 알고리즘](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/greedy)
+* [해시 알고리즘](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/hash)
 * [Kakao-Blind-Recruitment(2018)](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/kakao_blind_recruitment_2018)
 * [Programming-Meister](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/programmingMaster/)
 * [Tipstown(2017)](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/tipstown_2017)
+* [SummerCoding(2018)](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/summer_coding_2018)
 * [WinterCoding(2018)](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/wintercoding_2018)
 
 > daewon
