@@ -3,13 +3,11 @@
 
 ![flag](./img/flag.png)
 
-![python](https://img.shields.io/badge/python-3.0-blueviolet.svg?style=plat&logo=python)  
-
-![java](https://img.shields.io/badge/java-jdk10-orange.svg?style=plat&logo=java)  
+  
 
 ## *Index*
 
-> hongbeom ![build](https://travis-ci.org/programmers-contest/Programmers.svg?branch=master)
+> hongbeom ![build](https://travis-ci.org/programmers-contest/Programmers.svg?branch=master) ![java](https://img.shields.io/badge/java-jdk10-orange.svg?style=plat&logo=java)
 
 * [Level1](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/level1)
 * [Level2](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/level2)
