@@ -9,15 +9,15 @@ public class Solution {
 
         ArrayList<Integer> array = new ArrayList<>();
 
-        for (int i = 0; i < arr.length; i++) {
-            array.add(arr[i]);
+        for (int value : arr) {
+            array.add(value);
         }
 
         array.remove(Collections.min(array));
         int[] answer= new int[array.size()];
 
         if(answer.length == 0){
-            return answer = new int[]{-1};
+            return new int[]{-1};
         }
         else {
             for (int i = 0; i < answer.length; i++) {
