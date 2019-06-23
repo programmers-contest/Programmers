@@ -27,8 +27,11 @@
 
 * [Level1]()
 
+> sangmin
+
 ## *Information*
 
 - 안홍범 - dks3963@naver.com
 
 * 박대원 - daewon@wisoft.io
+* 이상민 -
