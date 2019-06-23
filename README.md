@@ -7,7 +7,7 @@
 
 ## *Index*
 
-> hongbeom ![GitHub top language](https://img.shields.io/github/languages/top/programmers-contest/Programmers.svg?color=orange&logo=java) ![build](https://travis-ci.org/programmers-contest/Programmers.svg?branch=master) ![GitHub last commit](https://img.shields.io/github/last-commit/programmers-contest/Programmers.svg?color=red)
+> hongbeom ![GitHub top language](https://img.shields.io/github/languages/top/programmers-contest/Programmers.svg?color=darkgreen&logo=java) ![build](https://travis-ci.org/programmers-contest/Programmers.svg?branch=master) ![GitHub last commit](https://img.shields.io/github/last-commit/programmers-contest/Programmers.svg?color=chartreuse)
 
 * [Level1](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/level1)
 * [Level2](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/level2)
