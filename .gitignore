@@ -219,7 +219,6 @@ hs_err_pid*
 
 ### Maven ###
 target/
-pom.xml
 pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
