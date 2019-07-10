@@ -1,4 +1,4 @@
-# <img src="./img/flag.png" width="60"> Programmers-Contest ![GitHub contributors](https://img.shields.io/github/contributors/programmers-contest/Programmers.svg?color=black) 
+# <img src="./img/flag.png" width="40"> Programmers-Contest ![GitHub contributors](https://img.shields.io/github/contributors/programmers-contest/Programmers.svg?color=black) 
 > **프로그래머스 문제 풀기 공동 저장소입니다.** 
 
 ![flag](./img/background.png)
