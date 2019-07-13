@@ -7,10 +7,11 @@
 
 ## *Index*  
 
-> hongbeom ![GitHub top language](https://img.shields.io/github/languages/top/programmers-contest/Programmers.svg?color=darkgreen&logo=java) ![build](https://travis-ci.org/programmers-contest/Programmers.svg?branch=master) ![GitHub last commit](https://img.shields.io/github/last-commit/programmers-contest/Programmers.svg?color=ff3366)
+### hongbeom ![GitHub top language](https://img.shields.io/github/languages/top/programmers-contest/Programmers.svg?color=darkgreen&logo=java) ![build](https://travis-ci.org/programmers-contest/Programmers.svg?branch=master) ![GitHub last commit](https://img.shields.io/github/last-commit/programmers-contest/Programmers.svg?color=ff3366)
 
-* [Level1](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/level1)
-* [Level2](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/level2)
+* [Level 1](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/level1)
+* [Level 2](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/level2)
+* [Level 3](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/level3)
 * [정렬 알고리즘](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/sorting)
 * [탐욕 알고리즘](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/greedy)
 * [해시 알고리즘](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/hash)
@@ -27,11 +28,11 @@
 * [SummerCoding(2018)](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/summer_coding_2018)
 * [WinterCoding(2018)](https://github.com/programmers-contest/Programmers/tree/master/hongbeom/wintercoding_2018)
 
-> daewon
+### daewon
 
 * [Level1]()
 
-> sangmin
+### sangmin
 
 - [올바른 괄호](https://github.com/LeeSM0518/Coding_Test/tree/master/src/correct_parenthesis)
 - [쇠 파이프](https://github.com/LeeSM0518/Coding_Test/tree/master/src/iron_stick)
@@ -45,8 +46,9 @@
 - [프린터](https://github.com/LeeSM0518/Coding_Test/tree/master/src/printer)
 - [더 맵게](https://github.com/LeeSM0518/Coding_Test/tree/master/src/more_spicy)
 - [이중 우선순위 큐](https://github.com/LeeSM0518/Coding_Test/tree/master/src/dual_priority_queue)
+- [타겟 넘버](https://github.com/LeeSM0518/Coding_Test/tree/master/src/target_number)  
 
-- [타겟 넘버](https://github.com/LeeSM0518/Coding_Test/tree/master/src/target_number)
+
 
 ## *Information*
 
