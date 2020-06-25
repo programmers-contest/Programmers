@@ -1,4 +1,4 @@
-package binary_search;
+package binary_search.예산;
 
 import java.util.Arrays;
 
