@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ProgrammersContest" target="1.5" />
+      <module name="ProgrammersContest" target="7" />
     </bytecodeTargetLevel>
   </component>
 </project>
