@@ -1,6 +1,6 @@
 package level1.시저암호
 
-class Solution {
+class SolutionKotlin {
 
     fun solution(s: String, n: Int) = s.map {
         when (it) {
