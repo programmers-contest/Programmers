@@ -1,6 +1,6 @@
 package level1.`수박수박수박수박수박수?`
 
-class Solution {
+class SolutionKotlin {
 
     fun solution(n: Int): String {
         var answer = ""

@@ -1,6 +1,6 @@
 package level1.이천십육년
 
-class Solution {
+class SolutionKotlin {
 
     fun solution(a: Int, b: Int): String {
         val week = listOf("FRI", "SAT", "SUN", "MON", "TUE", "WED", "THU")

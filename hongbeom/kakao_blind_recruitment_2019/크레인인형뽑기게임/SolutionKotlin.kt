@@ -2,7 +2,7 @@ package kakao_blind_recruitment_2019.크레인인형뽑기게임
 
 import java.util.*
 
-class Solution {
+class SolutionKotlin {
 
     fun solution(board: Array<IntArray>, moves: IntArray): Int {
         var count = 0
